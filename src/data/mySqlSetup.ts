@@ -1,4 +1,4 @@
-import BaseDatabase from './BaseDatabase'
+import BaseDatabase from "./BaseDatabase";
 
 class CreateTables extends BaseDatabase {
     
